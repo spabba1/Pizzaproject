@@ -1,0 +1,5 @@
+c:\users\shivasaigoud\documents\visual studio 2012\Projects\Pizzaproject\Pizzaproject\bin\Pizzaproject.dll
+c:\users\shivasaigoud\documents\visual studio 2012\Projects\Pizzaproject\Pizzaproject\bin\Pizzaproject.pdb
+c:\users\shivasaigoud\documents\visual studio 2012\Projects\Pizzaproject\Pizzaproject\obj\Debug\Pizzaproject.csprojResolveAssemblyReference.cache
+c:\users\shivasaigoud\documents\visual studio 2012\Projects\Pizzaproject\Pizzaproject\obj\Debug\Pizzaproject.dll
+c:\users\shivasaigoud\documents\visual studio 2012\Projects\Pizzaproject\Pizzaproject\obj\Debug\Pizzaproject.pdb
